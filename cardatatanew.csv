@@ -1,0 +1,27 @@
+Make,Model,Displacement,Horsepower,Torque,Type,Topspeed,Price
+Ford,Mustang,5000,480,420,Muscle,163,47590
+Ford,Taurus,3500,288,254,Sedan,150,28895
+Ford,Explorer,3000,400,415,SUV,146,55835
+Chevrolet,Camaro,6200,455,455,Muscle,165,37995
+Chevrolet,Corvette,6200,495,470,Sport,184,64995
+Chevrolet,Tahoe,5300,355,383,SUV,115,60495
+Dodge,Challenger,6400,485,475,Muscle,176,46590
+Dodge,Charger,3600,300,264,Sedan,132,34340
+Dodge,Durango,5700,360,390,SUV,120,45490
+Mercedes,C-Class,2000,255,273,Sedan,132,44795
+Mercedes,G-Class,4000,416,450,SUV,137,125495
+Mercedes,AMG GT,4000,720,590,Sport,202,400000
+BMW,3 series,3000,382,369,Sedan,156,54995
+BMW,8 series,4400,523,553,Luxury,159,112895
+BMW,X5,3000,389,443,SUV,129,66395
+Audi,A4,2000,261,273,Sedan,126,41945
+Audi,R8,5200,562,406,Sport,200,151895
+Audi,Q7,3000,335,369,SUV,130,64795
+Nissan,Altima,2500,182,178,Sedan,119,27945
+Nissan,Armada,5600,400,413,SUV,130,49000
+Nissan,GTR,3800,600,481,Sport,195,212435
+Toyota,Camry,2500,301,267,Sedan,134,32125
+Toyota,Land Cruiser,5700,381,401,SUV,123,89110
+Toyota,Supra,3000,382,368,Sport,160,51945
+Honda,Accord,1500,192,192,Sedan,132,31085
+Honda,Civic,1500,180,177,Sedan,130,29295
